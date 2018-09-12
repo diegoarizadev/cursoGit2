@@ -1,2 +1,3 @@
 este un ejemplo de un archivo plano para realizar commit en git, rama 3.. modificamos desde la rama3
-linea 2 desde la rama3
+
+Solicitud de cambio pull request nuevo cambio
